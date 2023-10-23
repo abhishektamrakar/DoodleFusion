@@ -42,9 +42,3 @@ We welcome contributions from the open-source community to make DoodleFusion eve
 ## License
 
 DoodleFusion is open source and released under the [MIT License](LICENSE.md). You are encouraged to use, modify, and distribute this application in accordance with the terms of the license.
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please don't hesitate to reach out to us. You can contact us at [contact@doodlefusion.com](mailto:contact@doodlefusion.com).
-
-Get ready to embark on a creative journey with DoodleFusion. Your canvas, your ideas, and your imagination are now limitless. Start sketching, start fusing ideas, and start DoodleFusion!
